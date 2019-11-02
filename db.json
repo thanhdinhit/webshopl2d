@@ -3,7 +3,7 @@
 "id": 1,
 "name": "ModuleNTD",
 "price": 120,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/td.png",
 "category": "vegetables"
 },
 {
