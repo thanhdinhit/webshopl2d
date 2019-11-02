@@ -3,14 +3,14 @@
 "id": 1,
 "name": "ModuleNTD",
 "price": 120,
-"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/td.png",
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ntd.png",
 "category": "vegetables"
 },
 {
 "id": 2,
 "name": "Cauliflower - 1 Kg",
 "price": 60,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/td.png",
 "category": "vegetables"
 },
 {
