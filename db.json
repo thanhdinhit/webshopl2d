@@ -1,4 +1,4 @@
-[
+{"products":[
 {
 "id": 1,
 "name": "Brocolli - 1 Kg",
@@ -210,3 +210,4 @@
 "category": "nuts"
 }
 ]
+}
