@@ -107,37 +107,37 @@
 },
 {
 "id": 16,
-"name": "Banana - 1 Kg",
-"price": 45,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/banana.jpg",
+"name": "Sensor ánh sáng",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbas.jpg",
 "category": "fruits"
 },
 {
 "id": 17,
-"name": "Grapes - 1 Kg",
-"price": 60,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/grapes.jpg",
+"name": "Adapter 5V-1A",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/nguon5v1a.jpg",
 "category": "fruits"
 },
 {
 "id": 18,
-"name": "Mango - 1 Kg",
-"price": 75,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/mango.jpg",
+"name": "Nguồn board test",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/nguonbotest.jpg",
 "category": "fruits"
 },
 {
 "id": 19,
-"name": "Musk Melon - 1 Kg",
-"price": 36,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/musk-melon.jpg",
+"name": "Board test nhỏ",
+"price": 9000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/botestn.jpg",
 "category": "fruits"
 },
 {
 "id": 20,
-"name": "Orange - 1 Kg",
-"price": 75,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/orange.jpg",
+"name": "Màn hình OLED 0.96 inch",
+"price": 79000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/oled.jpg",
 "category": "fruits"
 },
 {
