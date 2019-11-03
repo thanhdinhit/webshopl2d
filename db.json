@@ -211,13 +211,13 @@
 "category": "nuts"
 }
 ],
-  "products":[
-    {
-      "id": 31,
-      "name": "Walnuts - 1/4 Kg",
-      "price": 170,
-      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
-      "category": "nuts"
-    }
-    ]
+"iotembedded":[
+{
+  "id": 31,
+  "name": "Walnuts - 1/4 Kg",
+  "price": 170,
+  "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+  "category": "nuts"
+}
+]
 }
