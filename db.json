@@ -210,7 +210,7 @@
 "category": "nuts"
 }
 ],
- "module-sensor" :[
+ "modulesensor" :[
   {
      "name": "typicode"
   },
