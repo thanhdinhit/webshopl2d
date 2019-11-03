@@ -1,0 +1,9 @@
+[
+{
+"id": 1,
+"name": "module-sensor",
+"price": 120,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ntd.png",
+"category": "vegetables"
+},
+]
