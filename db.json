@@ -211,19 +211,116 @@
 "category": "nuts"
 }
 ],
- "comments": [
+ "module-sensor": [
 {
-"id": 1,
-"body": "some comment",
-"postId": 1
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
 },
 {
-"id": 2,
-"body": "some comment",
-"postId": 1
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
 }
 ],
-"profile": {
-"name": "typicode"
+   "electric-component": [
+{
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+},
+{
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
 }
+],
+     "ic": [
+{
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+},
+{
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+}
+],
+     "embedded": [
+{
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+},
+{
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+}
+],
+       "electric-accessories": [
+{
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+},
+{
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+}
+],
+         "iot": [
+{
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+},
+{
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+}
+],
+         "kit-develop": [
+{
+"id": 31,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+},
+{
+"id": 32,
+"name": "Walnuts - 1/4 Kg",
+"price": 170,
+"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"category": "nuts"
+}
+]
 }
