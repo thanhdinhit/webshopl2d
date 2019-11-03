@@ -51,58 +51,58 @@
 },
 {
 "id": 8,
-"name": "Brinjal - 1 Kg",
-"price": 35,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/brinjal.jpg",
+"name": "Module DHT11",
+"price": 39000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dht11.jpg",
 "category": "vegetables"
 },
 {
 "id": 9,
-"name": "Capsicum",
-"price": 60,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/capsicum.jpg",
+"name": "Module L298",
+"price": 54000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/l298.jpg",
 "category": "vegetables"
 },
 {
 "id": 10,
-"name": "Mushroom - 1 Kg",
-"price": 75,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/button-mushroom.jpg",
+"name": "Module 2 relay 5V",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/relay.jpg",
 "category": "vegetables"
 },
 {
 "id": 11,
-"name": "Potato - 1 Kg",
-"price": 22,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/potato.jpg",
+"name": "Sensor mưa",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbm.jpg",
 "category": "vegetables"
 },
 {
 "id": 12,
-"name": "Pumpkin - 1 Kg",
-"price": 48,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pumpkin.jpg",
+"name": "Sensor độ ẩm đất",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbdad.jpg",
 "category": "vegetables"
 },
 {
 "id": 13,
-"name": "Corn - 1 Kg",
-"price": 75,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/corn.jpg",
+"name": "Sensor DS18b20 dây",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ds1820.jpg",
 "category": "vegetables"
 },
 {
 "id": 14,
-"name": "Onion - 1 Kg",
-"price": 16,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/onion.jpg",
+"name": "IR sensor thu phát ",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/md_HNgoai.jpg",
 "category": "vegetables"
 },
 {
 "id": 15,
-"name": "Apple - 1 Kg",
-"price": 72,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/apple.jpg",
+"name": "Động cơ servo SG90",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/sg90.jpg",
 "category": "fruits"
 },
 {
