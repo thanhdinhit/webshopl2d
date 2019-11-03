@@ -209,5 +209,15 @@
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
 }
-]
+],
+ "module-sensor":
+ [
+{
+"id": 1,
+"name": "sensor",
+"price": 120,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ntd.png",
+"category": "vegetables"
+},
+ ]
 }
