@@ -3,21 +3,21 @@
 {
 "id": 1,
 "name": "Board ESP8266 CP1202",
-"price": 109.000,
+"price": 109000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/esp8266.jpg",
 "category": "vegetables"
 },
 {
 "id": 2,
 "name": "Board Ardiuno UNO R3 with caple",
-"price": 99.000,
+"price": 99000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/unofull.jpg",
 "category": "vegetables"
 },
 {
 "id": 3,
 "name": "Board Ardiuno Nano CH340 with caple",
-"price": 84.000,
+"price": 84000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ardiuno.jpg",
 "category": "vegetables"
 },
