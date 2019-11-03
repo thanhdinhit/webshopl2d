@@ -23,30 +23,30 @@
 },
 {
 "id": 4,
-"name": "Beetroot - 1 Kg",
-"price": 32,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
+"name": "Board I2C LCD",
+"price": 24000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/i2c.jpg",
 "category": "vegetables"
 },
 {
 "id": 5,
-"name": "Carrot - 1 Kg",
-"price": 56,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/carrots.jpg",
+"name": "Module 1 relay 5V",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/relay1.jpg",
 "category": "vegetables"
 },
 {
 "id": 6,
-"name": "Tomato - 1 Kg",
-"price": 16,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/tomato.jpg",
+"name": "Module 4 relay 5V",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/relay4.jpg",
 "category": "vegetables"
 },
 {
 "id": 7,
-"name": "Beans - 1 Kg",
-"price": 82,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beans.jpg",
+"name": "Bánh xe robot",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/banhxe.jpg",
 "category": "vegetables"
 },
 {
