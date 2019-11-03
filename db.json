@@ -213,50 +213,141 @@
 ],
 "iotembedded": [
 {
-"id": 85,
-"name": "Walnutsiotembedded",
-"price": 170,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
-"category": "nuts"
+"id": 1,
+"name": "Board ESP8266 CP1202",
+"price": 109000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/esp8266.jpg",
+"category": "vegetables"
 },
 {
-"id": 86,
-"name": "Walnuts iotembedded",
-"price": 170,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"id": 2,
+"name": "Board Ardiuno UNO R3 with caple",
+"price": 99000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/unofull.jpg",
+"category": "vegetables"
+},
+{
+"id": 3,
+"name": "Board Ardiuno Nano CH340 with caple",
+"price": 84000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ardiuno.jpg",
+"category": "vegetables"
+},
+ {
+"id": 4,
+"name": "Module điều khiển nhiệt độ",
+"price": 59000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/modueltemp.jpg",
 "category": "nuts"
 }
 ],
 "electriccomponent": [
 {
-"id": 98,
-"name": "Walnuts electriccomponent",
-"price": 170,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
-"category": "nuts"
+"id": 1,
+"name": "Bánh xe robot",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/banhxe.jpg",
+"category": "vegetables"
 },
 {
-"id": 99,
-"name": "Walnuts electriccomponent",
-"price": 170,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
-"category": "nuts"
+"id": 2,
+"name": "Động cơ giảm tốc",
+"price": 24000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dc5v.jpg",
+"category": "fruits"
+},
+{
+"id": 3,
+"name": "Dây bus test đực đực",
+"price": 1000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/busDD.jpg",
+"category": "fruits"
+},
+{
+"id": 4,
+"name": "Dây bus test cái cái",
+"price": 1000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/busCC.jpg",
+"category": "fruits"
+},
+{
+"id": 5,
+"name": "Dây bus test đực cái",
+"price": 1000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/busCC.jpg",
+"category": "fruits"
 }
 ],
 "modulesensoric": [
 {
-"id": 100,
-"name": "Walnuts - 1/4 Kgmodulesensoric",
-"price": 170,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"id": 1,
+"name": "Cảm biến chuyển động",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbcd.jpg",
 "category": "nuts"
 },
 {
-"id": 101,
-"name": "Walnuts - 1/4 Kgmodulesensoric",
-"price": 170,
-"image": "https://github.com/thanhdinhit/webshopl2d/blob/master/img/relay.jpg?raw=true",
+"id": 2,
+"name": "Cảm biến gas",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbkhiga.jpg",
 "category": "nuts"
+},
+  {
+"id": 3,
+"name": "DHT22",
+"price": 110000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dht22.jpg",
+"category": "nuts"
+},
+  {
+"id": 4,
+"name": "Module DHT11",
+"price": 39000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dht11.jpg",
+"category": "vegetables"
+},
+{
+"id": 5,
+"name": "Module L298",
+"price": 54000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/l298.jpg",
+"category": "vegetables"
+},
+{
+"id": 6,
+"name": "Module 2 relay 5V",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/relay.jpg",
+"category": "vegetables"
+},
+{
+"id": 7,
+"name": "Sensor mưa",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbm.jpg",
+"category": "vegetables"
+},
+{
+"id": 8,
+"name": "Sensor độ ẩm đất",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbdad.jpg",
+"category": "vegetables"
+},
+{
+"id": 9,
+"name": "Sensor DS18b20 dây",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ds1820.jpg",
+"category": "vegetables"
+},
+{
+"id": 10,
+"name": "IR sensor thu phát ",
+"price": 19000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/md_HNgoai.jpg",
+"category": "vegetables"
 }
 ]
 }
