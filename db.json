@@ -212,6 +212,10 @@
 }
 ],
   "profile": {
-"name": "typicode"
+   "post": [
+     {
+       "name": "typicode"
+     }
+    ]
 }
 }
