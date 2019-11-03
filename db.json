@@ -1,4 +1,5 @@
-{"products":[
+{
+  "products":[
 {
 "id": 1,
 "name": "ModuleNTD",
@@ -209,5 +210,20 @@
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
 }
-]
+],
+ "comments": [
+{
+"id": 1,
+"body": "some comment",
+"postId": 1
+},
+{
+"id": 2,
+"body": "some comment",
+"postId": 1
+}
+],
+"profile": {
+"name": "typicode"
+}
 }
