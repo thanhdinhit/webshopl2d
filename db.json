@@ -142,72 +142,72 @@
 },
 {
 "id": 21,
-"name": "Pears - 1 Kg",
-"price": 69,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pears.jpg",
+"name": "Module bluetooth HC06",
+"price": 119000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/bleHC06.jpg",
 "category": "fruits"
 },
 {
 "id": 22,
-"name": "Pomegranate - 1 Kg",
-"price": 95,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pomegranate.jpg",
+"name": "Động cơ giảm tốc",
+"price": 24000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dc5v.jpg",
 "category": "fruits"
 },
 {
 "id": 23,
-"name": "Raspberry - 1/4 Kg",
-"price": 160,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/raspberry.jpg",
+"name": "Dây bus test đực đực",
+"price": 1000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/busDD.jpg",
 "category": "fruits"
 },
 {
 "id": 24,
-"name": "Strawberry - 1/4 Kg",
-"price": 180,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/strawberry.jpg",
+"name": "Dây bus test cái cái",
+"price": 1000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/busCC.jpg",
 "category": "fruits"
 },
 {
 "id": 25,
-"name": "Water Melon - 1 Kg",
-"price": 28,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+"name": "Dây bus test đực cái",
+"price": 1000,
+"image": "https://github.com/thanhdinhit/webshopl2d/blob/master/img/busDC.jpg",
 "category": "fruits"
 },
 {
 "id": 26,
-"name": "Almonds - 1/4 Kg",
-"price": 200,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/almonds.jpg",
+"name": "Module điều khiển nhiệt độ",
+"price": 59000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/modueltemp.jpg",
 "category": "nuts"
 },
 {
 "id": 27,
-"name": "Pista - 1/4 Kg",
-"price": 190,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pista.jpg",
+"name": "Cảm biến chuyển động",
+"price": 29000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbcd.jpg",
 "category": "nuts"
 },
 {
 "id": 28,
-"name": "Nuts Mixture - 1 Kg",
-"price": 950,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/nuts-mixture.jpg",
+"name": "Cảm biến gas",
+"price": 49000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/cbkhiga.jpg",
 "category": "nuts"
 },
 {
 "id": 29,
-"name": "Cashews - 1 Kg",
-"price": 650,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/cashews.jpg",
+"name": "Còi chip",
+"price": 14000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/loabuzz.jpg",
 "category": "nuts"
 },
 {
 "id": 30,
-"name": "Walnuts - 1/4 Kg",
-"price": 170,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+"name": "DHT22",
+"price": 110000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dht22.jpg",
 "category": "nuts"
 }
 ],
