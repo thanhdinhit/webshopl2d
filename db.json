@@ -213,15 +213,15 @@
 ],
 "iotembedded": [
 {
-"id": 32,
-"name": "Walnuts",
+"id": 85,
+"name": "Walnutsiotembedded",
 "price": 170,
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
 },
 {
-"id": 32,
-"name": "Walnuts - 1/4 Kg",
+"id": 86,
+"name": "Walnuts iotembedded",
 "price": 170,
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
@@ -229,15 +229,15 @@
 ],
 "electriccomponent": [
 {
-"id": 32,
-"name": "Walnuts - 1/4 Kg",
+"id": 98,
+"name": "Walnuts electriccomponent",
 "price": 170,
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
 },
 {
-"id": 32,
-"name": "Walnuts - 1/4 Kg",
+"id": 99,
+"name": "Walnuts electriccomponent",
 "price": 170,
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
@@ -245,15 +245,15 @@
 ],
 "modulesensoric": [
 {
-"id": 32,
-"name": "Walnuts - 1/4 Kg",
+"id": 100,
+"name": "Walnuts - 1/4 Kgmodulesensoric",
 "price": 170,
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
 },
 {
-"id": 32,
-"name": "Walnuts - 1/4 Kg",
+"id": 101,
+"name": "Walnuts - 1/4 Kgmodulesensoric",
 "price": 170,
 "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
 "category": "nuts"
