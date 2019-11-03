@@ -9,16 +9,16 @@
 },
 {
 "id": 2,
-"name": "Cauliflower - 1 Kg",
-"price": 60,
-"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/td.png",
+"name": "Board Ardiuno UNO R3 with caple",
+"price": 99.000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/unofull.jpg",
 "category": "vegetables"
 },
 {
 "id": 3,
-"name": "Cucumber - 1 Kg",
-"price": 48,
-"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
+"name": "Board Ardiuno Nano CH340 with caple",
+"price": 84.000,
+"image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/ardiuno.jpg",
 "category": "vegetables"
 },
 {
