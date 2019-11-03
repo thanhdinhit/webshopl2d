@@ -211,7 +211,7 @@
 "category": "nuts"
 }
 ],
- "module-sensor": [
+ "modulesensor": [
 {
 "id": 31,
 "name": "Walnuts - 1/4 Kg",
@@ -227,7 +227,7 @@
 "category": "nuts"
 }
 ],
-   "electric-component": [
+   "electriccomponent": [
 {
 "id": 31,
 "name": "Walnuts - 1/4 Kg",
@@ -275,7 +275,7 @@
 "category": "nuts"
 }
 ],
-       "electric-accessories": [
+       "electricaccessories": [
 {
 "id": 31,
 "name": "Walnuts - 1/4 Kg",
@@ -307,7 +307,7 @@
 "category": "nuts"
 }
 ],
-         "kit-develop": [
+         "kitdevelop": [
 {
 "id": 31,
 "name": "Walnuts - 1/4 Kg",
