@@ -2,7 +2,7 @@
   "products":[
 {
 "id": 1,
-"name": "Board ESP8266 CP1202",
+"name": "Module Wifi ESP8266 CP1202",
 "price": 109000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/esp8266.jpg",
 "category": "vegetables"
@@ -23,7 +23,7 @@
 },
 {
 "id": 4,
-"name": "Board I2C LCD",
+"name": "Module I2C giao tiếp màn hình LCD",
 "price": 24000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/i2c.jpg",
 "category": "vegetables"
@@ -58,7 +58,7 @@
 },
 {
 "id": 9,
-"name": "Module L298",
+"name": "Module driver điều khiển động cơ L298",
 "price": 54000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/l298.jpg",
 "category": "vegetables"
@@ -93,7 +93,7 @@
 },
 {
 "id": 14,
-"name": "IR sensor thu phát ",
+"name": "Module IR sensor thu phát ",
 "price": 19000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/md_HNgoai.jpg",
 "category": "vegetables"
@@ -114,14 +114,14 @@
 },
 {
 "id": 17,
-"name": "Adapter 5V-1A",
+"name": "Adapter 5V1A",
 "price": 29000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/nguon5v1a.jpg",
 "category": "fruits"
 },
 {
 "id": 18,
-"name": "Nguồn board test",
+"name": "Nguồn board test 5v 3.3v",
 "price": 19000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/nguonbotest.jpg",
 "category": "fruits"
@@ -149,7 +149,7 @@
 },
 {
 "id": 22,
-"name": "Động cơ giảm tốc",
+"name": "Động cơ giảm tốc vàng",
 "price": 24000,
 "image": "https://raw.githubusercontent.com/thanhdinhit/webshopl2d/master/img/dc5v.jpg",
 "category": "fruits"
